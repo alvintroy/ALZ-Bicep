@@ -8,7 +8,7 @@
 
 ![Bicep Logo](docs/wiki/media/bicep-logo.png)
 
-Welcome to the Azure Landing Zones Bicep repo.
+Welcome to the Azure Landing Zones Bicep repo..
 
 Detailed information about how to use, deploy and extend artifacts found in this repo can be found on our Wiki:
 
