@@ -149,7 +149,7 @@ In this example, the management groups are created at the `Tenant Root Group` th
 
 dateYMD=$(date +%Y%m%dT%H%M%S%NZ)
 NAME="alz-MGDeployment-${dateYMD}"
-LOCATION="eastus"
+LOCATION="australiaeast"
 TEMPLATEFILE="infra-as-code/bicep/modules/managementGroups/managementGroups.bicep"
 PARAMETERS="@infra-as-code/bicep/modules/managementGroups/parameters/managementGroups.parameters.all.json"
 
