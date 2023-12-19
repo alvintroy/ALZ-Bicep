@@ -177,7 +177,7 @@ Use this module if you do not want to grant Tenant Root Management Group Deploym
 
 dateYMD=$(date +%Y%m%dT%H%M%S%NZ)
 NAME="alz-MGDeployment-${dateYMD}"
-LOCATION="eastus"
+LOCATION="australiaeast"
 TEMPLATEFILE="infra-as-code/bicep/modules/managementGroups/managementGroupsScopeEscape.bicep"
 PARAMETERS="@infra-as-code/bicep/modules/managementGroups/parameters/managementGroups.parameters.all.json"
 MGID="alz"
